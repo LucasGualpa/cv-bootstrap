@@ -1,0 +1,28 @@
+body {
+    /* font-family: 'Unica One', cursive; */
+    font-family: 'News Cycle', sans-serif;
+
+
+}
+
+.titulos h5 {
+    font-weight: bolder;
+
+}
+
+.titulos h4 {
+    font-weight: bolder;
+}
+
+.objetive {
+    text-align: left;
+}
+
+.col-sm-12 ul li {
+    text-align: start;
+}
+
+.border {
+    /* border: 5px solid black; */
+    border-style: solid;
+}
